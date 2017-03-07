@@ -1,0 +1,150 @@
+.customDiv
+{
+    /* margin deals with the distance of the actual column in any or direction*/
+    margin-top: 10px;
+    margin-left: -15px;
+    /* padding deals with the distance of the context inside the column */
+    padding: 10px;
+    border: inset;
+    border-color: #ec971f;
+    min-height:10px;
+    background-color: #4cae4c;
+    text-align: center;
+    font-size: large;
+}
+
+.navbar
+{
+    margin-bottom: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+.navbar-default .navbar-brand
+{
+    color: black;
+    /*border-bottom: 2px solid #4B6E41;*/
+}
+
+.navbar-default .navbar-brand:hover
+{
+    color: #789E68;
+    /*border-bottom: 2px solid #4B6E41;*/
+}
+
+.navbar-brand
+{
+    line-height: 35px;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+
+    color: black;
+}
+
+.navbar-default .navbar-nav li a:hover
+{
+
+    border-bottom: 2px solid #D11F37;
+    color: red;
+}
+
+
+.navbar-nav li a
+{
+    line-height: 35px;
+    font-family: "Times New Roman";
+    font-size: 18px;
+}
+
+
+
+.copyright
+{
+    color: #454A43;
+}
+
+.right
+{
+    padding-right: 10px;
+    float: right !important;
+}
+
+/*.navbar-header li a:hover*/
+/*{*/
+    /*color: red;*/
+/*}*/
+
+.imgs
+{
+    padding-top: 65px;
+    margin-top: 0%;
+    height: 400px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.addpaddig-firstsentence
+{
+    padding-bottom: 15px;
+}
+
+.fontStyle
+{
+    font-family: 'Trocchi', serif;
+    font-style: italic;
+    font-size: 22px;
+
+}
+
+.p1
+{
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+    font-size: 16px;
+}
+
+.fontStyle1
+{
+    font-family: 'Trocchi', serif;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+
+
+
+
+.customsid
+{
+    margin-bottom: 10px;
+    padding: 60px;
+    /* padding deals with the distance of the context inside the column */
+    border: groove;
+    border-color: #761c19;
+    min-height:150px;
+    background-color: #ec971f;
+    text-align: center;
+    font-size: large;
+}
+
+.customs
+{
+    margin-bottom: 10px;
+    padding: 140px;
+    /* padding deals with the distance of the context inside the column */
+    border: inset;
+    border-color: #ec971f;
+    min-height:310px;
+    background-color: #1b6d85;
+    text-align: center;
+    font-size: large;
+}
+
+hr
+{
+    border: 1px solid red;
+}
